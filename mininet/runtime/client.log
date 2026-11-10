@@ -1,0 +1,4 @@
+[traffic:client] congestion: 25 Mbps baseline + 3 x 95 Mbps overlays
+[traffic:client]   burst 1: t=120s..200s (80s @ 95 Mbps overlay)
+[traffic:client]   burst 2: t=320s..410s (90s @ 95 Mbps overlay)
+[traffic:client]   burst 3: t=500s..560s (60s @ 95 Mbps overlay)

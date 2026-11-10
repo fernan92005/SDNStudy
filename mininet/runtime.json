@@ -1,0 +1,120 @@
+{
+  "hosts": {
+    "h1": {
+      "pid": 36121,
+      "ip": "10.0.0.1"
+    },
+    "h2": {
+      "pid": 36123,
+      "ip": "10.0.0.2"
+    }
+  },
+  "switches": [
+    "s1",
+    "s2",
+    "s3"
+  ],
+  "dpids": {
+    "s1": 1,
+    "s2": 2,
+    "s3": 3
+  },
+  "switch_port_map": {
+    "s1": {
+      "s1-eth1": 1,
+      "s1-eth2": 2,
+      "s1-eth3": 3
+    },
+    "s2": {
+      "s2-eth1": 1,
+      "s2-eth2": 2,
+      "s2-eth3": 3
+    },
+    "s3": {
+      "s3-eth1": 1,
+      "s3-eth2": 2
+    }
+  },
+  "port_map": {
+    "h1->s1": {
+      "src_intf": "h1-eth0",
+      "dst_intf": "s1-eth1"
+    },
+    "s1->h1": {
+      "src_intf": "s1-eth1",
+      "dst_intf": "h1-eth0"
+    },
+    "s1->s2": {
+      "src_intf": "s1-eth2",
+      "dst_intf": "s2-eth2"
+    },
+    "s2->s1": {
+      "src_intf": "s2-eth2",
+      "dst_intf": "s1-eth2"
+    },
+    "s1->s3": {
+      "src_intf": "s1-eth3",
+      "dst_intf": "s3-eth1"
+    },
+    "s3->s1": {
+      "src_intf": "s3-eth1",
+      "dst_intf": "s1-eth3"
+    },
+    "s3->s2": {
+      "src_intf": "s3-eth2",
+      "dst_intf": "s2-eth3"
+    },
+    "s2->s3": {
+      "src_intf": "s2-eth3",
+      "dst_intf": "s3-eth2"
+    },
+    "s2->h2": {
+      "src_intf": "s2-eth1",
+      "dst_intf": "h2-eth0"
+    },
+    "h2->s2": {
+      "src_intf": "h2-eth0",
+      "dst_intf": "s2-eth1"
+    }
+  },
+  "primary_path": [
+    "h1",
+    "s1",
+    "s2",
+    "h2"
+  ],
+  "alternate_path": [
+    "h1",
+    "s1",
+    "s3",
+    "s2",
+    "h2"
+  ],
+  "links": [
+    {
+      "src": "h1",
+      "dst": "s1",
+      "capacity_mbps": 1000.0
+    },
+    {
+      "src": "s1",
+      "dst": "s2",
+      "capacity_mbps": 100.0
+    },
+    {
+      "src": "s1",
+      "dst": "s3",
+      "capacity_mbps": 180.0
+    },
+    {
+      "src": "s3",
+      "dst": "s2",
+      "capacity_mbps": 180.0
+    },
+    {
+      "src": "s2",
+      "dst": "h2",
+      "capacity_mbps": 1000.0
+    }
+  ]
+}
