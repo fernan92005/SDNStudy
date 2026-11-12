@@ -135,4067 +135,4067 @@
   {
     "tick": 19,
     "action": "keep_default_route",
-    "predicted_peak": 0.3057083189487457,
+    "predicted_peak": 0.31496691703796387,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 20,
     "action": "keep_default_route",
-    "predicted_peak": 0.3049822151660919,
+    "predicted_peak": 0.31268981099128723,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 21,
     "action": "keep_default_route",
-    "predicted_peak": 0.3281762897968292,
+    "predicted_peak": 0.33783158659935,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 22,
     "action": "keep_default_route",
-    "predicted_peak": 0.32309257984161377,
+    "predicted_peak": 0.3313211500644684,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 23,
     "action": "keep_default_route",
-    "predicted_peak": 0.29764917492866516,
+    "predicted_peak": 0.30474594235420227,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 24,
     "action": "keep_default_route",
-    "predicted_peak": 0.2966344654560089,
+    "predicted_peak": 0.3052860498428345,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 25,
     "action": "keep_default_route",
-    "predicted_peak": 0.27229028940200806,
+    "predicted_peak": 0.2795735001564026,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 26,
     "action": "keep_default_route",
-    "predicted_peak": 0.27537891268730164,
+    "predicted_peak": 0.28425133228302,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 27,
     "action": "keep_default_route",
-    "predicted_peak": 0.29915255308151245,
+    "predicted_peak": 0.3089224696159363,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 28,
     "action": "keep_default_route",
-    "predicted_peak": 0.3128906786441803,
+    "predicted_peak": 0.32154253125190735,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 29,
     "action": "keep_default_route",
-    "predicted_peak": 0.3185296654701233,
+    "predicted_peak": 0.32621705532073975,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 30,
     "action": "keep_default_route",
-    "predicted_peak": 0.2901018261909485,
+    "predicted_peak": 0.2966742217540741,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 31,
     "action": "keep_default_route",
-    "predicted_peak": 0.29122194647789,
+    "predicted_peak": 0.3003205358982086,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 32,
     "action": "keep_default_route",
-    "predicted_peak": 0.3016566336154938,
+    "predicted_peak": 0.3118671774864197,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 33,
     "action": "keep_default_route",
-    "predicted_peak": 0.2920672595500946,
+    "predicted_peak": 0.30093804001808167,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 34,
     "action": "keep_default_route",
-    "predicted_peak": 0.3202574551105499,
+    "predicted_peak": 0.33166036009788513,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 35,
     "action": "keep_default_route",
-    "predicted_peak": 0.31198254227638245,
+    "predicted_peak": 0.3205869197845459,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 36,
     "action": "keep_default_route",
-    "predicted_peak": 0.28599345684051514,
+    "predicted_peak": 0.2933711111545563,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 37,
     "action": "keep_default_route",
-    "predicted_peak": 0.257608562707901,
+    "predicted_peak": 0.2649674713611603,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 38,
     "action": "keep_default_route",
-    "predicted_peak": 0.2581937313079834,
+    "predicted_peak": 0.2676299214363098,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 39,
     "action": "keep_default_route",
-    "predicted_peak": 0.27516794204711914,
+    "predicted_peak": 0.2852941155433655,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 40,
     "action": "keep_default_route",
-    "predicted_peak": 0.2965552806854248,
+    "predicted_peak": 0.3061050474643707,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 41,
     "action": "keep_default_route",
-    "predicted_peak": 0.3028227686882019,
+    "predicted_peak": 0.31174787878990173,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 42,
     "action": "keep_default_route",
-    "predicted_peak": 0.2954657971858978,
+    "predicted_peak": 0.3034503161907196,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 43,
     "action": "keep_default_route",
-    "predicted_peak": 0.30739521980285645,
+    "predicted_peak": 0.31696638464927673,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 44,
     "action": "keep_default_route",
-    "predicted_peak": 0.29922977089881897,
+    "predicted_peak": 0.30854830145835876,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 45,
     "action": "keep_default_route",
-    "predicted_peak": 0.282478928565979,
+    "predicted_peak": 0.2909405529499054,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 46,
     "action": "keep_default_route",
-    "predicted_peak": 0.3012925386428833,
+    "predicted_peak": 0.3123626112937927,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 47,
     "action": "keep_default_route",
-    "predicted_peak": 0.31316909193992615,
+    "predicted_peak": 0.3243089020252228,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 48,
     "action": "keep_default_route",
-    "predicted_peak": 0.32449468970298767,
+    "predicted_peak": 0.33575916290283203,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 49,
     "action": "keep_default_route",
-    "predicted_peak": 0.3349488079547882,
+    "predicted_peak": 0.3464273512363434,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 50,
     "action": "keep_default_route",
-    "predicted_peak": 0.32606273889541626,
+    "predicted_peak": 0.3352019786834717,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 51,
     "action": "keep_default_route",
-    "predicted_peak": 0.312031090259552,
+    "predicted_peak": 0.3212524354457855,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 52,
     "action": "keep_default_route",
-    "predicted_peak": 0.3162706792354584,
+    "predicted_peak": 0.3268718123435974,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 53,
     "action": "keep_default_route",
-    "predicted_peak": 0.30958303809165955,
+    "predicted_peak": 0.31909072399139404,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 54,
     "action": "keep_default_route",
-    "predicted_peak": 0.3130229413509369,
+    "predicted_peak": 0.3232276737689972,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 55,
     "action": "keep_default_route",
-    "predicted_peak": 0.31460124254226685,
+    "predicted_peak": 0.3240121304988861,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 56,
     "action": "keep_default_route",
-    "predicted_peak": 0.29952868819236755,
+    "predicted_peak": 0.30727359652519226,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 57,
     "action": "keep_default_route",
-    "predicted_peak": 0.3115825653076172,
+    "predicted_peak": 0.3202609419822693,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 58,
     "action": "keep_default_route",
-    "predicted_peak": 0.2990727722644806,
+    "predicted_peak": 0.30653050541877747,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 59,
     "action": "keep_default_route",
-    "predicted_peak": 0.301474928855896,
+    "predicted_peak": 0.3096374571323395,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 60,
     "action": "keep_default_route",
-    "predicted_peak": 0.30634984374046326,
+    "predicted_peak": 0.31482744216918945,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 61,
     "action": "keep_default_route",
-    "predicted_peak": 0.3286607265472412,
+    "predicted_peak": 0.3379189372062683,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 62,
     "action": "keep_default_route",
-    "predicted_peak": 0.31818893551826477,
+    "predicted_peak": 0.3254528045654297,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 63,
     "action": "keep_default_route",
-    "predicted_peak": 0.30556032061576843,
+    "predicted_peak": 0.3129895031452179,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 64,
     "action": "keep_default_route",
-    "predicted_peak": 0.3014504611492157,
+    "predicted_peak": 0.30957475304603577,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 65,
     "action": "keep_default_route",
-    "predicted_peak": 0.3056459426879883,
+    "predicted_peak": 0.31424015760421753,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 66,
     "action": "keep_default_route",
-    "predicted_peak": 0.32148781418800354,
+    "predicted_peak": 0.3310611844062805,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 67,
     "action": "keep_default_route",
-    "predicted_peak": 0.33089518547058105,
+    "predicted_peak": 0.3398520350456238,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 68,
     "action": "keep_default_route",
-    "predicted_peak": 0.3312074840068817,
+    "predicted_peak": 0.3396981358528137,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 69,
     "action": "keep_default_route",
-    "predicted_peak": 0.3424340784549713,
+    "predicted_peak": 0.35213398933410645,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 70,
     "action": "keep_default_route",
-    "predicted_peak": 0.3719291388988495,
+    "predicted_peak": 0.38473549485206604,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 71,
     "action": "keep_default_route",
-    "predicted_peak": 0.35018983483314514,
+    "predicted_peak": 0.35796794295310974,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 72,
     "action": "keep_default_route",
-    "predicted_peak": 0.33487561345100403,
+    "predicted_peak": 0.3431672155857086,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 73,
     "action": "keep_default_route",
-    "predicted_peak": 0.33666563034057617,
+    "predicted_peak": 0.3461029529571533,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 74,
     "action": "keep_default_route",
-    "predicted_peak": 0.3351103663444519,
+    "predicted_peak": 0.3444420099258423,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 75,
     "action": "keep_default_route",
-    "predicted_peak": 0.35309407114982605,
+    "predicted_peak": 0.36296388506889343,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 76,
     "action": "keep_default_route",
-    "predicted_peak": 0.34848394989967346,
+    "predicted_peak": 0.3561590611934662,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 77,
     "action": "keep_default_route",
-    "predicted_peak": 0.3263581693172455,
+    "predicted_peak": 0.3328564763069153,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 78,
     "action": "keep_default_route",
-    "predicted_peak": 0.33015650510787964,
+    "predicted_peak": 0.33776307106018066,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 79,
     "action": "keep_default_route",
-    "predicted_peak": 0.2913295030593872,
+    "predicted_peak": 0.296904981136322,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 80,
     "action": "keep_default_route",
-    "predicted_peak": 0.2771182060241699,
+    "predicted_peak": 0.2837337851524353,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 81,
     "action": "keep_default_route",
-    "predicted_peak": 0.3143678903579712,
+    "predicted_peak": 0.3242762088775635,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 82,
     "action": "keep_default_route",
-    "predicted_peak": 0.33140435814857483,
+    "predicted_peak": 0.33910003304481506,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 83,
     "action": "keep_default_route",
-    "predicted_peak": 0.3404914140701294,
+    "predicted_peak": 0.346749871969223,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 84,
     "action": "keep_default_route",
-    "predicted_peak": 0.3245956003665924,
+    "predicted_peak": 0.3297112286090851,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 85,
     "action": "keep_default_route",
-    "predicted_peak": 0.31610456109046936,
+    "predicted_peak": 0.3223918378353119,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 86,
     "action": "keep_default_route",
-    "predicted_peak": 0.31045493483543396,
+    "predicted_peak": 0.3179911673069,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 87,
     "action": "keep_default_route",
-    "predicted_peak": 0.3366590738296509,
+    "predicted_peak": 0.34641870856285095,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 88,
     "action": "keep_default_route",
-    "predicted_peak": 0.3277702331542969,
+    "predicted_peak": 0.3354664146900177,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 89,
     "action": "keep_default_route",
-    "predicted_peak": 0.28427836298942566,
+    "predicted_peak": 0.2900368869304657,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 90,
     "action": "keep_default_route",
-    "predicted_peak": 0.2796330451965332,
+    "predicted_peak": 0.28814035654067993,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 91,
     "action": "keep_default_route",
-    "predicted_peak": 0.30836379528045654,
+    "predicted_peak": 0.3186657130718231,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 92,
     "action": "keep_default_route",
-    "predicted_peak": 0.3118464946746826,
+    "predicted_peak": 0.3201848566532135,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 93,
     "action": "keep_default_route",
-    "predicted_peak": 0.2888619005680084,
+    "predicted_peak": 0.29535022377967834,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 94,
     "action": "keep_default_route",
-    "predicted_peak": 0.27094751596450806,
+    "predicted_peak": 0.2777470648288727,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 95,
     "action": "keep_default_route",
-    "predicted_peak": 0.2784232199192047,
+    "predicted_peak": 0.2874318063259125,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 96,
     "action": "keep_default_route",
-    "predicted_peak": 0.28144314885139465,
+    "predicted_peak": 0.2902037501335144,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 97,
     "action": "keep_default_route",
-    "predicted_peak": 0.29032135009765625,
+    "predicted_peak": 0.2988438904285431,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 98,
     "action": "keep_default_route",
-    "predicted_peak": 0.2658761143684387,
+    "predicted_peak": 0.2728380858898163,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 99,
     "action": "keep_default_route",
-    "predicted_peak": 0.25955450534820557,
+    "predicted_peak": 0.2668333649635315,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 100,
     "action": "keep_default_route",
-    "predicted_peak": 0.2781847417354584,
+    "predicted_peak": 0.2871961295604706,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 101,
     "action": "keep_default_route",
-    "predicted_peak": 0.28801703453063965,
+    "predicted_peak": 0.2971852421760559,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 102,
     "action": "keep_default_route",
-    "predicted_peak": 0.2824379503726959,
+    "predicted_peak": 0.29080072045326233,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 103,
     "action": "keep_default_route",
-    "predicted_peak": 0.30014824867248535,
+    "predicted_peak": 0.3107323944568634,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 104,
     "action": "keep_default_route",
-    "predicted_peak": 0.32280027866363525,
+    "predicted_peak": 0.33539438247680664,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 105,
     "action": "keep_default_route",
-    "predicted_peak": 0.3211978077888489,
+    "predicted_peak": 0.33176618814468384,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 106,
     "action": "keep_default_route",
-    "predicted_peak": 0.3073062002658844,
+    "predicted_peak": 0.3172827363014221,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 107,
     "action": "keep_default_route",
-    "predicted_peak": 0.3199957311153412,
+    "predicted_peak": 0.33286988735198975,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 108,
     "action": "keep_default_route",
-    "predicted_peak": 0.31550270318984985,
+    "predicted_peak": 0.3269059956073761,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 109,
     "action": "keep_default_route",
-    "predicted_peak": 0.31185802817344666,
+    "predicted_peak": 0.32216933369636536,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 110,
     "action": "keep_default_route",
-    "predicted_peak": 0.33668166399002075,
+    "predicted_peak": 0.34957778453826904,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 111,
     "action": "keep_default_route",
-    "predicted_peak": 0.3436787724494934,
+    "predicted_peak": 0.3557254672050476,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 112,
     "action": "keep_default_route",
-    "predicted_peak": 0.3334701657295227,
+    "predicted_peak": 0.3428035080432892,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 113,
     "action": "keep_default_route",
-    "predicted_peak": 0.2988853454589844,
+    "predicted_peak": 0.3061861991882324,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 114,
     "action": "keep_default_route",
-    "predicted_peak": 0.29039326310157776,
+    "predicted_peak": 0.2991386651992798,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 115,
     "action": "keep_default_route",
-    "predicted_peak": 0.291840523481369,
+    "predicted_peak": 0.30147045850753784,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 116,
     "action": "keep_default_route",
-    "predicted_peak": 0.29021647572517395,
+    "predicted_peak": 0.2989749610424042,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 117,
     "action": "keep_default_route",
-    "predicted_peak": 0.30890360474586487,
+    "predicted_peak": 0.3180811405181885,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 118,
     "action": "keep_default_route",
-    "predicted_peak": 0.30031806230545044,
+    "predicted_peak": 0.30701562762260437,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 119,
     "action": "keep_default_route",
-    "predicted_peak": 0.27858105301856995,
+    "predicted_peak": 0.28434664011001587,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 120,
     "action": "keep_default_route",
-    "predicted_peak": 0.26665806770324707,
+    "predicted_peak": 0.2735274136066437,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 121,
     "action": "keep_default_route",
-    "predicted_peak": 0.2604913115501404,
+    "predicted_peak": 0.2679840326309204,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 122,
     "action": "keep_default_route",
-    "predicted_peak": 0.2710733413696289,
+    "predicted_peak": 0.27922019362449646,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 123,
     "action": "keep_default_route",
-    "predicted_peak": 0.329110324382782,
+    "predicted_peak": 0.34260669350624084,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 124,
     "action": "keep_default_route",
-    "predicted_peak": 0.39085718989372253,
+    "predicted_peak": 0.40091463923454285,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 125,
     "action": "keep_default_route",
-    "predicted_peak": 0.5422590970993042,
+    "predicted_peak": 0.5474430918693542,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 126,
     "action": "keep_default_route",
-    "predicted_peak": 0.689903736114502,
+    "predicted_peak": 0.6848568916320801,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 127,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8901869058609009,
+    "predicted_peak": 0.8766672015190125,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.15)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.16)"
   },
   {
     "tick": 128,
     "action": "reroute_traffic",
-    "predicted_peak": 0.6545702219009399,
+    "predicted_peak": 0.6498851180076599,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.33)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.34)"
   },
   {
     "tick": 129,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4530333876609802,
+    "predicted_peak": 0.4496007263660431,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.56)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.55)"
   },
   {
     "tick": 130,
     "action": "reroute_traffic",
-    "predicted_peak": 0.309667706489563,
+    "predicted_peak": 0.3081745207309723,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.84)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.83)"
   },
   {
     "tick": 131,
     "action": "reroute_traffic",
-    "predicted_peak": 0.21554461121559143,
+    "predicted_peak": 0.2176673859357834,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.92)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
   },
   {
     "tick": 132,
     "action": "keep_default_route",
-    "predicted_peak": 0.1581214964389801,
+    "predicted_peak": 0.1628279834985733,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.16 cleared hysteresis band"
   },
   {
     "tick": 133,
     "action": "reroute_traffic",
-    "predicted_peak": 1.4012088775634766,
+    "predicted_peak": 1.4500541687011719,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.60)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.59)"
   },
   {
     "tick": 134,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8442198038101196,
+    "predicted_peak": 1.00852632522583,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.62)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 135,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4662875533103943,
+    "predicted_peak": 0.5381142497062683,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.73)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
   },
   {
     "tick": 136,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2775830626487732,
+    "predicted_peak": 0.26611652970314026,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
   },
   {
     "tick": 137,
     "action": "reroute_traffic",
-    "predicted_peak": 0.16448429226875305,
+    "predicted_peak": 0.13050439953804016,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 138,
     "action": "keep_default_route",
-    "predicted_peak": 0.13240325450897217,
+    "predicted_peak": 0.12962573766708374,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.13 cleared hysteresis band"
   },
   {
     "tick": 139,
     "action": "reroute_traffic",
-    "predicted_peak": 1.3336668014526367,
+    "predicted_peak": 1.15455961227417,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.71)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
   },
   {
     "tick": 140,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8091803193092346,
+    "predicted_peak": 0.8579015731811523,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
   },
   {
     "tick": 141,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4405594766139984,
+    "predicted_peak": 0.4546177089214325,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.83)"
   },
   {
     "tick": 142,
     "action": "reroute_traffic",
-    "predicted_peak": 0.24933335185050964,
+    "predicted_peak": 0.20384284853935242,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.86)"
   },
   {
     "tick": 143,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1373298168182373,
+    "predicted_peak": 0.1251748949289322,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.00)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.94)"
   },
   {
     "tick": 144,
     "action": "keep_default_route",
-    "predicted_peak": 0.13102282583713531,
+    "predicted_peak": 0.12573295831680298,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.13 cleared hysteresis band"
   },
   {
     "tick": 145,
     "action": "reroute_traffic",
-    "predicted_peak": 1.301946997642517,
+    "predicted_peak": 1.1351070404052734,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
   },
   {
     "tick": 146,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7568836808204651,
+    "predicted_peak": 0.8448046445846558,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
   },
   {
     "tick": 147,
     "action": "reroute_traffic",
-    "predicted_peak": 0.390129029750824,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
-  },
-  {
-    "tick": 148,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.20999769866466522,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
-  },
-  {
-    "tick": 149,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.13722236454486847,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.03)"
-  },
-  {
-    "tick": 150,
-    "action": "keep_default_route",
-    "predicted_peak": 0.13681676983833313,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
-  },
-  {
-    "tick": 151,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.2545931339263916,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
-  },
-  {
-    "tick": 152,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7271867394447327,
+    "predicted_peak": 0.45244258642196655,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.80)"
   },
   {
-    "tick": 153,
+    "tick": 148,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3924870491027832,
+    "predicted_peak": 0.19587737321853638,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
+  },
+  {
+    "tick": 149,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.13025642931461334,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
+    "tick": 150,
+    "action": "keep_default_route",
+    "predicted_peak": 0.1299765259027481,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
+    "tick": 151,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1155818700790405,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
+  },
+  {
+    "tick": 152,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8372697830200195,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.72)"
+  },
+  {
+    "tick": 153,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.45197227597236633,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
+  },
+  {
     "tick": 154,
     "action": "reroute_traffic",
-    "predicted_peak": 0.21161670982837677,
+    "predicted_peak": 0.19628649950027466,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.01)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
     "tick": 155,
     "action": "reroute_traffic",
-    "predicted_peak": 0.15102218091487885,
+    "predicted_peak": 0.14389590919017792,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.09)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
   },
   {
     "tick": 156,
     "action": "keep_default_route",
-    "predicted_peak": 0.14229702949523926,
+    "predicted_peak": 0.1349399834871292,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
+    "reason": "forecast peak 0.13 cleared hysteresis band"
   },
   {
     "tick": 157,
     "action": "reroute_traffic",
-    "predicted_peak": 1.287066102027893,
+    "predicted_peak": 1.1523760557174683,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.64)"
   },
   {
     "tick": 158,
     "action": "reroute_traffic",
-    "predicted_peak": 0.72786945104599,
+    "predicted_peak": 0.8538895845413208,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
   },
   {
     "tick": 159,
     "action": "reroute_traffic",
-    "predicted_peak": 0.38819918036460876,
+    "predicted_peak": 0.45598500967025757,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.86)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
   },
   {
     "tick": 160,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20825527608394623,
+    "predicted_peak": 0.1971236765384674,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.00)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.92)"
   },
   {
     "tick": 161,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1350596845149994,
+    "predicted_peak": 0.12891113758087158,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.04)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.94)"
   },
   {
     "tick": 162,
     "action": "keep_default_route",
-    "predicted_peak": 0.14995959401130676,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.15 cleared hysteresis band"
-  },
-  {
-    "tick": 163,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.3432343006134033,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.81)"
-  },
-  {
-    "tick": 164,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7321807742118835,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
-  },
-  {
-    "tick": 165,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.38585615158081055,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
-  },
-  {
-    "tick": 166,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.20617994666099548,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
-  },
-  {
-    "tick": 167,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.13205355405807495,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.03)"
-  },
-  {
-    "tick": 168,
-    "action": "keep_default_route",
-    "predicted_peak": 0.13566309213638306,
+    "predicted_peak": 0.14406391978263855,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.14 cleared hysteresis band"
   },
   {
+    "tick": 163,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.2178341150283813,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
+  },
+  {
+    "tick": 164,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.884591817855835,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+  },
+  {
+    "tick": 165,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.4660441279411316,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
+  },
+  {
+    "tick": 166,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.20150019228458405,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
+  },
+  {
+    "tick": 167,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.12688538432121277,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
+  },
+  {
+    "tick": 168,
+    "action": "keep_default_route",
+    "predicted_peak": 0.1300221085548401,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
     "tick": 169,
     "action": "keep_default_route",
-    "predicted_peak": 0.4011167585849762,
+    "predicted_peak": 0.2910240888595581,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 170,
     "action": "reroute_traffic",
-    "predicted_peak": 2.0485715866088867,
+    "predicted_peak": 1.8217190504074097,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.55)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.44)"
   },
   {
     "tick": 171,
     "action": "reroute_traffic",
-    "predicted_peak": 0.92770916223526,
+    "predicted_peak": 1.1523799896240234,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.60)"
   },
   {
     "tick": 172,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4359140694141388,
+    "predicted_peak": 0.5443193316459656,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.82)"
   },
   {
     "tick": 173,
     "action": "reroute_traffic",
-    "predicted_peak": 0.22139491140842438,
+    "predicted_peak": 0.21685081720352173,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.07)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.00)"
   },
   {
     "tick": 174,
     "action": "reroute_traffic",
-    "predicted_peak": 0.14780956506729126,
+    "predicted_peak": 0.13923028111457825,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.09)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
   },
   {
     "tick": 175,
     "action": "keep_default_route",
-    "predicted_peak": 0.15046976506710052,
+    "predicted_peak": 0.14340391755104065,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.15 cleared hysteresis band"
+    "reason": "forecast peak 0.14 cleared hysteresis band"
   },
   {
     "tick": 176,
     "action": "reroute_traffic",
-    "predicted_peak": 1.2530170679092407,
+    "predicted_peak": 1.1182318925857544,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
   },
   {
     "tick": 177,
     "action": "reroute_traffic",
-    "predicted_peak": 0.74314945936203,
+    "predicted_peak": 0.843845784664154,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 178,
     "action": "reroute_traffic",
-    "predicted_peak": 0.38591769337654114,
+    "predicted_peak": 0.44720742106437683,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
   },
   {
     "tick": 179,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2062675654888153,
+    "predicted_peak": 0.1909685879945755,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
   },
   {
     "tick": 180,
     "action": "reroute_traffic",
-    "predicted_peak": 0.14436660706996918,
+    "predicted_peak": 0.13769803941249847,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 181,
     "action": "keep_default_route",
-    "predicted_peak": 0.14268098771572113,
+    "predicted_peak": 0.1355348378419876,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.14 cleared hysteresis band"
   },
   {
     "tick": 182,
     "action": "reroute_traffic",
-    "predicted_peak": 1.2835627794265747,
+    "predicted_peak": 1.141714334487915,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
   },
   {
     "tick": 183,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7503772974014282,
+    "predicted_peak": 0.8527013063430786,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
   },
   {
     "tick": 184,
     "action": "reroute_traffic",
-    "predicted_peak": 0.38209259510040283,
+    "predicted_peak": 0.4515238106250763,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.83)"
   },
   {
     "tick": 185,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2021111696958542,
+    "predicted_peak": 0.19362770020961761,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
   },
   {
     "tick": 186,
     "action": "reroute_traffic",
-    "predicted_peak": 0.15878668427467346,
+    "predicted_peak": 0.15134531259536743,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.12)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.03)"
   },
   {
     "tick": 187,
     "action": "keep_default_route",
-    "predicted_peak": 0.15312787890434265,
+    "predicted_peak": 0.1448853760957718,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.15 cleared hysteresis band"
+    "reason": "forecast peak 0.14 cleared hysteresis band"
   },
   {
     "tick": 188,
     "action": "reroute_traffic",
-    "predicted_peak": 1.273226261138916,
+    "predicted_peak": 1.1425597667694092,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.64)"
   },
   {
     "tick": 189,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7264832258224487,
+    "predicted_peak": 0.8513242602348328,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.69)"
   },
   {
     "tick": 190,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3889446258544922,
+    "predicted_peak": 0.45490553975105286,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.92)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.84)"
   },
   {
     "tick": 191,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20834878087043762,
+    "predicted_peak": 0.1965087205171585,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 192,
     "action": "reroute_traffic",
-    "predicted_peak": 0.13379023969173431,
+    "predicted_peak": 0.12698569893836975,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.94)"
   },
   {
     "tick": 193,
     "action": "keep_default_route",
-    "predicted_peak": 0.12868061661720276,
+    "predicted_peak": 0.1225581020116806,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.13 cleared hysteresis band"
+    "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 194,
     "action": "reroute_traffic",
-    "predicted_peak": 1.288107991218567,
+    "predicted_peak": 1.1554802656173706,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.62)"
   },
   {
     "tick": 195,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7267807722091675,
+    "predicted_peak": 0.8552776575088501,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
   },
   {
     "tick": 196,
     "action": "reroute_traffic",
-    "predicted_peak": 0.38814616203308105,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
-  },
-  {
-    "tick": 197,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.2077004462480545,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.02)"
-  },
-  {
-    "tick": 198,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.16243423521518707,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.13)"
-  },
-  {
-    "tick": 199,
-    "action": "keep_default_route",
-    "predicted_peak": 0.1575293391942978,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.16 cleared hysteresis band"
-  },
-  {
-    "tick": 200,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.2531628608703613,
+    "predicted_peak": 0.4559268653392792,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
   },
   {
+    "tick": 197,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19678959250450134,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.94)"
+  },
+  {
+    "tick": 198,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.1546708643436432,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.03)"
+  },
+  {
+    "tick": 199,
+    "action": "keep_default_route",
+    "predicted_peak": 0.14898072183132172,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.15 cleared hysteresis band"
+  },
+  {
+    "tick": 200,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.115237832069397,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
+  },
+  {
     "tick": 201,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7262045741081238,
+    "predicted_peak": 0.8369132876396179,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.59)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.47)"
   },
   {
     "tick": 202,
     "action": "reroute_traffic",
-    "predicted_peak": 0.39201706647872925,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.50)"
-  },
-  {
-    "tick": 203,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.21060368418693542,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.43)"
-  },
-  {
-    "tick": 204,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.10276922583580017,
+    "predicted_peak": 0.45051416754722595,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.42)"
   },
   {
+    "tick": 203,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.194891557097435,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.36)"
+  },
+  {
+    "tick": 204,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.04379221051931381,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.37)"
+  },
+  {
     "tick": 205,
     "action": "keep_default_route",
-    "predicted_peak": 0.04137878492474556,
+    "predicted_peak": 0.0,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.04 cleared hysteresis band"
+    "reason": "forecast peak 0.00 cleared hysteresis band"
   },
   {
     "tick": 206,
     "action": "keep_default_route",
-    "predicted_peak": 0.0568544939160347,
+    "predicted_peak": 0.016643140465021133,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 207,
     "action": "keep_default_route",
-    "predicted_peak": 0.12556083500385284,
+    "predicted_peak": 0.045874789357185364,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 208,
     "action": "keep_default_route",
-    "predicted_peak": 0.2022881954908371,
+    "predicted_peak": 0.11053082346916199,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 209,
     "action": "keep_default_route",
-    "predicted_peak": 0.23895834386348724,
+    "predicted_peak": 0.17351917922496796,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 210,
     "action": "keep_default_route",
-    "predicted_peak": 0.2460465431213379,
+    "predicted_peak": 0.21266058087348938,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 211,
     "action": "keep_default_route",
-    "predicted_peak": 0.26538971066474915,
+    "predicted_peak": 0.2615205645561218,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 212,
     "action": "keep_default_route",
-    "predicted_peak": 0.2608349919319153,
+    "predicted_peak": 0.2776874303817749,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 213,
     "action": "keep_default_route",
-    "predicted_peak": 0.2515907287597656,
+    "predicted_peak": 0.2803839445114136,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 214,
     "action": "keep_default_route",
-    "predicted_peak": 0.26160091161727905,
+    "predicted_peak": 0.28982239961624146,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 215,
     "action": "keep_default_route",
-    "predicted_peak": 0.23594368994235992,
+    "predicted_peak": 0.27484211325645447,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 216,
     "action": "keep_default_route",
-    "predicted_peak": 0.2393893152475357,
+    "predicted_peak": 0.2852502763271332,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 217,
     "action": "keep_default_route",
-    "predicted_peak": 0.23393361270427704,
+    "predicted_peak": 0.2776177227497101,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 218,
     "action": "keep_default_route",
-    "predicted_peak": 0.24369536340236664,
+    "predicted_peak": 0.28732144832611084,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 219,
     "action": "keep_default_route",
-    "predicted_peak": 0.24646373093128204,
+    "predicted_peak": 0.2868506908416748,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 220,
     "action": "keep_default_route",
-    "predicted_peak": 0.3032231330871582,
+    "predicted_peak": 0.3214278817176819,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 221,
     "action": "keep_default_route",
-    "predicted_peak": 0.3150080442428589,
+    "predicted_peak": 0.3305096924304962,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 222,
     "action": "keep_default_route",
-    "predicted_peak": 0.3473810851573944,
+    "predicted_peak": 0.3641999065876007,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 223,
     "action": "keep_default_route",
-    "predicted_peak": 0.31973710656166077,
+    "predicted_peak": 0.3284815549850464,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 224,
     "action": "keep_default_route",
-    "predicted_peak": 0.3280746638774872,
+    "predicted_peak": 0.3381907343864441,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 225,
     "action": "keep_default_route",
-    "predicted_peak": 0.34095248579978943,
+    "predicted_peak": 0.35083717107772827,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 226,
     "action": "keep_default_route",
-    "predicted_peak": 0.34407785534858704,
+    "predicted_peak": 0.35360145568847656,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 227,
     "action": "keep_default_route",
-    "predicted_peak": 0.37213626503944397,
+    "predicted_peak": 0.38475415110588074,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 228,
     "action": "keep_default_route",
-    "predicted_peak": 0.349503755569458,
+    "predicted_peak": 0.3570305407047272,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 229,
     "action": "keep_default_route",
-    "predicted_peak": 0.33778131008148193,
+    "predicted_peak": 0.34566041827201843,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 230,
     "action": "keep_default_route",
-    "predicted_peak": 0.34770190715789795,
+    "predicted_peak": 0.3570823669433594,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 231,
     "action": "keep_default_route",
-    "predicted_peak": 0.354375422000885,
+    "predicted_peak": 0.3638198971748352,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 232,
     "action": "keep_default_route",
-    "predicted_peak": 0.34479576349258423,
+    "predicted_peak": 0.35267210006713867,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 233,
     "action": "keep_default_route",
-    "predicted_peak": 0.3460065722465515,
+    "predicted_peak": 0.3540785014629364,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 234,
     "action": "keep_default_route",
-    "predicted_peak": 0.3353891372680664,
+    "predicted_peak": 0.34272241592407227,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 235,
     "action": "keep_default_route",
-    "predicted_peak": 0.32458794116973877,
+    "predicted_peak": 0.3313295543193817,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 236,
     "action": "keep_default_route",
-    "predicted_peak": 0.3108369708061218,
+    "predicted_peak": 0.31748273968696594,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 237,
     "action": "keep_default_route",
-    "predicted_peak": 0.32395654916763306,
+    "predicted_peak": 0.33163970708847046,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 238,
     "action": "keep_default_route",
-    "predicted_peak": 0.33321043848991394,
+    "predicted_peak": 0.34044337272644043,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 239,
     "action": "keep_default_route",
-    "predicted_peak": 0.3722430169582367,
+    "predicted_peak": 0.38071316480636597,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 240,
     "action": "keep_default_route",
-    "predicted_peak": 0.38706913590431213,
+    "predicted_peak": 0.3945128619670868,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 241,
     "action": "keep_default_route",
-    "predicted_peak": 0.35521918535232544,
+    "predicted_peak": 0.3596455752849579,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 242,
     "action": "keep_default_route",
-    "predicted_peak": 0.34666386246681213,
+    "predicted_peak": 0.3535720407962799,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 243,
     "action": "keep_default_route",
-    "predicted_peak": 0.3229580819606781,
+    "predicted_peak": 0.32924509048461914,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 244,
     "action": "keep_default_route",
-    "predicted_peak": 0.30999061465263367,
+    "predicted_peak": 0.31738772988319397,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 245,
     "action": "keep_default_route",
-    "predicted_peak": 0.31030917167663574,
+    "predicted_peak": 0.31842225790023804,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 246,
     "action": "keep_default_route",
-    "predicted_peak": 0.29857033491134644,
+    "predicted_peak": 0.30541568994522095,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 247,
     "action": "keep_default_route",
-    "predicted_peak": 0.29203590750694275,
+    "predicted_peak": 0.2989983856678009,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 248,
     "action": "keep_default_route",
-    "predicted_peak": 0.2871495485305786,
+    "predicted_peak": 0.2933994233608246,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 249,
     "action": "keep_default_route",
-    "predicted_peak": 0.29397663474082947,
+    "predicted_peak": 0.3007360100746155,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 250,
     "action": "keep_default_route",
-    "predicted_peak": 0.30035823583602905,
+    "predicted_peak": 0.3073475658893585,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 251,
     "action": "keep_default_route",
-    "predicted_peak": 0.3045909106731415,
+    "predicted_peak": 0.31159457564353943,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 252,
     "action": "keep_default_route",
-    "predicted_peak": 0.3329277038574219,
+    "predicted_peak": 0.34174370765686035,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 253,
     "action": "keep_default_route",
-    "predicted_peak": 0.34663861989974976,
+    "predicted_peak": 0.35575637221336365,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 254,
     "action": "keep_default_route",
-    "predicted_peak": 0.3504379987716675,
+    "predicted_peak": 0.35874712467193604,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 255,
     "action": "keep_default_route",
-    "predicted_peak": 0.35931161046028137,
+    "predicted_peak": 0.3687044680118561,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 256,
     "action": "keep_default_route",
-    "predicted_peak": 0.3802454173564911,
+    "predicted_peak": 0.39185473322868347,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 257,
     "action": "keep_default_route",
-    "predicted_peak": 0.3939807415008545,
+    "predicted_peak": 0.4060039818286896,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 258,
     "action": "keep_default_route",
-    "predicted_peak": 0.3660208582878113,
+    "predicted_peak": 0.3739810287952423,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 259,
     "action": "keep_default_route",
-    "predicted_peak": 0.35301879048347473,
+    "predicted_peak": 0.36233603954315186,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 260,
     "action": "keep_default_route",
-    "predicted_peak": 0.3529074788093567,
+    "predicted_peak": 0.36312589049339294,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 261,
     "action": "keep_default_route",
-    "predicted_peak": 0.3618707060813904,
+    "predicted_peak": 0.37170547246932983,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 262,
     "action": "keep_default_route",
-    "predicted_peak": 0.35525909066200256,
+    "predicted_peak": 0.36353757977485657,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 263,
     "action": "keep_default_route",
-    "predicted_peak": 0.3483583629131317,
+    "predicted_peak": 0.35546547174453735,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 264,
     "action": "keep_default_route",
-    "predicted_peak": 0.3284996449947357,
+    "predicted_peak": 0.3344663977622986,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 265,
     "action": "keep_default_route",
-    "predicted_peak": 0.31566768884658813,
+    "predicted_peak": 0.32186880707740784,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 266,
     "action": "keep_default_route",
-    "predicted_peak": 0.29739615321159363,
+    "predicted_peak": 0.3029094636440277,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 267,
     "action": "keep_default_route",
-    "predicted_peak": 0.3147674798965454,
+    "predicted_peak": 0.3218962550163269,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 268,
     "action": "keep_default_route",
-    "predicted_peak": 0.31639641523361206,
+    "predicted_peak": 0.322112113237381,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 269,
     "action": "keep_default_route",
-    "predicted_peak": 0.3052942156791687,
+    "predicted_peak": 0.309867799282074,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 270,
     "action": "keep_default_route",
-    "predicted_peak": 0.30834877490997314,
+    "predicted_peak": 0.313693106174469,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 271,
     "action": "keep_default_route",
-    "predicted_peak": 0.3130960166454315,
+    "predicted_peak": 0.31887272000312805,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 272,
     "action": "keep_default_route",
-    "predicted_peak": 0.30565598607063293,
+    "predicted_peak": 0.3115108013153076,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 273,
     "action": "keep_default_route",
-    "predicted_peak": 0.3104385435581207,
+    "predicted_peak": 0.31731152534484863,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 274,
     "action": "keep_default_route",
-    "predicted_peak": 0.30437394976615906,
+    "predicted_peak": 0.31111234426498413,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 275,
     "action": "keep_default_route",
-    "predicted_peak": 0.311365008354187,
+    "predicted_peak": 0.31927376985549927,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 276,
     "action": "keep_default_route",
-    "predicted_peak": 0.31391650438308716,
+    "predicted_peak": 0.322248637676239,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 277,
     "action": "keep_default_route",
-    "predicted_peak": 0.31794798374176025,
+    "predicted_peak": 0.326763778924942,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 278,
     "action": "keep_default_route",
-    "predicted_peak": 0.3136548399925232,
+    "predicted_peak": 0.3217841684818268,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 279,
     "action": "keep_default_route",
-    "predicted_peak": 0.30256760120391846,
+    "predicted_peak": 0.31060001254081726,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 280,
     "action": "keep_default_route",
-    "predicted_peak": 0.30441543459892273,
+    "predicted_peak": 0.31354662775993347,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 281,
     "action": "keep_default_route",
-    "predicted_peak": 0.28562864661216736,
+    "predicted_peak": 0.2939419746398926,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 282,
     "action": "keep_default_route",
-    "predicted_peak": 0.3044643700122833,
+    "predicted_peak": 0.31465205550193787,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 283,
     "action": "keep_default_route",
-    "predicted_peak": 0.3075648248195648,
+    "predicted_peak": 0.3167648911476135,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 284,
     "action": "keep_default_route",
-    "predicted_peak": 0.3409671485424042,
+    "predicted_peak": 0.35282769799232483,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 285,
     "action": "keep_default_route",
-    "predicted_peak": 0.3572436273097992,
+    "predicted_peak": 0.3682413399219513,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 286,
     "action": "keep_default_route",
-    "predicted_peak": 0.3522614538669586,
+    "predicted_peak": 0.3603556454181671,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 287,
     "action": "keep_default_route",
-    "predicted_peak": 0.3325987756252289,
+    "predicted_peak": 0.340821772813797,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 288,
     "action": "keep_default_route",
-    "predicted_peak": 0.3291717767715454,
+    "predicted_peak": 0.338674396276474,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 289,
     "action": "keep_default_route",
-    "predicted_peak": 0.3322887420654297,
+    "predicted_peak": 0.3420948088169098,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 290,
     "action": "keep_default_route",
-    "predicted_peak": 0.3370336592197418,
+    "predicted_peak": 0.3467096984386444,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 291,
     "action": "keep_default_route",
-    "predicted_peak": 0.34766829013824463,
+    "predicted_peak": 0.3571036756038666,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 292,
     "action": "keep_default_route",
-    "predicted_peak": 0.3477027416229248,
+    "predicted_peak": 0.35584354400634766,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 293,
     "action": "keep_default_route",
-    "predicted_peak": 0.35848933458328247,
+    "predicted_peak": 0.3670579791069031,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 294,
     "action": "keep_default_route",
-    "predicted_peak": 0.343085914850235,
+    "predicted_peak": 0.350019246339798,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 295,
     "action": "keep_default_route",
-    "predicted_peak": 0.32970568537712097,
+    "predicted_peak": 0.3368767201900482,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 296,
     "action": "keep_default_route",
-    "predicted_peak": 0.33200135827064514,
+    "predicted_peak": 0.3402465283870697,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 297,
     "action": "keep_default_route",
-    "predicted_peak": 0.31983792781829834,
+    "predicted_peak": 0.3272378146648407,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 298,
     "action": "keep_default_route",
-    "predicted_peak": 0.31697553396224976,
+    "predicted_peak": 0.32435813546180725,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 299,
     "action": "keep_default_route",
-    "predicted_peak": 0.3395969271659851,
+    "predicted_peak": 0.3479601740837097,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 300,
     "action": "keep_default_route",
-    "predicted_peak": 0.34565842151641846,
+    "predicted_peak": 0.3527752459049225,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 301,
     "action": "keep_default_route",
-    "predicted_peak": 0.336212694644928,
+    "predicted_peak": 0.34170299768447876,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 302,
     "action": "keep_default_route",
-    "predicted_peak": 0.344851016998291,
+    "predicted_peak": 0.3519836962223053,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 303,
     "action": "keep_default_route",
-    "predicted_peak": 0.32639697194099426,
+    "predicted_peak": 0.33233511447906494,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 304,
     "action": "keep_default_route",
-    "predicted_peak": 0.31305474042892456,
+    "predicted_peak": 0.3199629783630371,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 305,
     "action": "keep_default_route",
-    "predicted_peak": 0.3248436152935028,
+    "predicted_peak": 0.33353105187416077,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 306,
     "action": "keep_default_route",
-    "predicted_peak": 0.3176412582397461,
+    "predicted_peak": 0.3250736594200134,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 307,
     "action": "keep_default_route",
-    "predicted_peak": 0.3195936381816864,
+    "predicted_peak": 0.32689520716667175,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 308,
     "action": "keep_default_route",
-    "predicted_peak": 0.3191049098968506,
+    "predicted_peak": 0.3263096213340759,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 309,
     "action": "keep_default_route",
-    "predicted_peak": 0.3416793942451477,
+    "predicted_peak": 0.3501955270767212,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 310,
     "action": "keep_default_route",
-    "predicted_peak": 0.3244200050830841,
+    "predicted_peak": 0.3309035003185272,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 311,
     "action": "keep_default_route",
-    "predicted_peak": 0.30893561244010925,
+    "predicted_peak": 0.31567734479904175,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 312,
     "action": "keep_default_route",
-    "predicted_peak": 0.3003380596637726,
+    "predicted_peak": 0.30789822340011597,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 313,
     "action": "keep_default_route",
-    "predicted_peak": 0.30591270327568054,
+    "predicted_peak": 0.3147442638874054,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 314,
     "action": "keep_default_route",
-    "predicted_peak": 0.31910574436187744,
+    "predicted_peak": 0.3279062509536743,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 315,
     "action": "keep_default_route",
-    "predicted_peak": 0.33000436425209045,
+    "predicted_peak": 0.33820483088493347,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 316,
     "action": "keep_default_route",
-    "predicted_peak": 0.3517962098121643,
+    "predicted_peak": 0.3612254559993744,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 317,
     "action": "keep_default_route",
-    "predicted_peak": 0.3619052767753601,
+    "predicted_peak": 0.3704097867012024,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 318,
     "action": "keep_default_route",
-    "predicted_peak": 0.33658987283706665,
+    "predicted_peak": 0.3429936468601227,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 319,
     "action": "keep_default_route",
-    "predicted_peak": 0.3024693727493286,
+    "predicted_peak": 0.3092249035835266,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 320,
     "action": "keep_default_route",
-    "predicted_peak": 0.2857151925563812,
+    "predicted_peak": 0.29398471117019653,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 321,
     "action": "keep_default_route",
-    "predicted_peak": 0.30536097288131714,
+    "predicted_peak": 0.3157449960708618,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 322,
     "action": "keep_default_route",
-    "predicted_peak": 0.31575822830200195,
+    "predicted_peak": 0.32517531514167786,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 323,
     "action": "keep_default_route",
-    "predicted_peak": 0.3587098717689514,
+    "predicted_peak": 0.37006327509880066,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 324,
     "action": "keep_default_route",
-    "predicted_peak": 0.4302687346935272,
+    "predicted_peak": 0.44164296984672546,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 325,
     "action": "keep_default_route",
-    "predicted_peak": 0.5406723618507385,
+    "predicted_peak": 0.5470635294914246,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 326,
     "action": "keep_default_route",
-    "predicted_peak": 0.6869136095046997,
+    "predicted_peak": 0.6856040358543396,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 327,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8735068440437317,
+    "predicted_peak": 0.8622285723686218,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.15)"
   },
   {
     "tick": 328,
     "action": "reroute_traffic",
-    "predicted_peak": 0.6473849415779114,
+    "predicted_peak": 0.6417452692985535,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.31)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.32)"
   },
   {
     "tick": 329,
     "action": "reroute_traffic",
-    "predicted_peak": 0.45361337065696716,
+    "predicted_peak": 0.4456557631492615,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.50)"
   },
   {
     "tick": 330,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3131333887577057,
+    "predicted_peak": 0.30741018056869507,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
   },
   {
     "tick": 331,
     "action": "reroute_traffic",
-    "predicted_peak": 0.21974600851535797,
+    "predicted_peak": 0.2189600169658661,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.84)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.83)"
   },
   {
     "tick": 332,
     "action": "keep_default_route",
-    "predicted_peak": 0.1632748395204544,
+    "predicted_peak": 0.16445636749267578,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.16 cleared hysteresis band"
   },
   {
     "tick": 333,
     "action": "reroute_traffic",
-    "predicted_peak": 1.3979185819625854,
+    "predicted_peak": 1.4435217380523682,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.64)"
   },
   {
     "tick": 334,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8458778858184814,
+    "predicted_peak": 1.0058462619781494,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.69)"
   },
   {
     "tick": 335,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4677225649356842,
+    "predicted_peak": 0.5377342104911804,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
   },
   {
     "tick": 336,
     "action": "reroute_traffic",
-    "predicted_peak": 0.27842938899993896,
+    "predicted_peak": 0.2659169137477875,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.89)"
   },
   {
     "tick": 337,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1651161015033722,
+    "predicted_peak": 0.11931135505437851,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.89)"
   },
   {
     "tick": 338,
     "action": "keep_default_route",
-    "predicted_peak": 0.11971498280763626,
+    "predicted_peak": 0.11814234405755997,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 339,
     "action": "reroute_traffic",
-    "predicted_peak": 1.397490382194519,
+    "predicted_peak": 1.2338922023773193,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.62)"
   },
   {
     "tick": 340,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8104393482208252,
+    "predicted_peak": 0.8920934200286865,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.73)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
   },
   {
     "tick": 341,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4333098232746124,
+    "predicted_peak": 0.4645111858844757,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
   },
   {
     "tick": 342,
     "action": "reroute_traffic",
-    "predicted_peak": 0.24396805465221405,
+    "predicted_peak": 0.20916731655597687,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.95)"
   },
   {
     "tick": 343,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1334160566329956,
+    "predicted_peak": 0.12724508345127106,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.00)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
     "tick": 344,
     "action": "keep_default_route",
-    "predicted_peak": 0.12458088994026184,
+    "predicted_peak": 0.11952284723520279,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 345,
     "action": "reroute_traffic",
-    "predicted_peak": 1.367553949356079,
+    "predicted_peak": 1.220813274383545,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.73)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
   },
   {
     "tick": 346,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7613649964332581,
+    "predicted_peak": 0.8852521777153015,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 347,
     "action": "reroute_traffic",
-    "predicted_peak": 0.386663019657135,
+    "predicted_peak": 0.4648023545742035,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.84)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
   },
   {
     "tick": 348,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20639728009700775,
+    "predicted_peak": 0.20092569291591644,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.95)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
   },
   {
     "tick": 349,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1395999938249588,
+    "predicted_peak": 0.13313178718090057,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.02)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
     "tick": 350,
     "action": "keep_default_route",
-    "predicted_peak": 0.15113465487957,
+    "predicted_peak": 0.14436571300029755,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.15 cleared hysteresis band"
+    "reason": "forecast peak 0.14 cleared hysteresis band"
   },
   {
     "tick": 351,
     "action": "reroute_traffic",
-    "predicted_peak": 1.257190227508545,
+    "predicted_peak": 1.1232134103775024,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 352,
     "action": "reroute_traffic",
-    "predicted_peak": 0.72745680809021,
+    "predicted_peak": 0.8411144018173218,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.71)"
   },
   {
     "tick": 353,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3918651342391968,
+    "predicted_peak": 0.45029306411743164,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.84)"
   },
   {
     "tick": 354,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2096143513917923,
+    "predicted_peak": 0.1940484493970871,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
   },
   {
     "tick": 355,
     "action": "reroute_traffic",
-    "predicted_peak": 0.13160215318202972,
+    "predicted_peak": 0.12507180869579315,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.01)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
   },
   {
     "tick": 356,
     "action": "keep_default_route",
-    "predicted_peak": 0.12922237813472748,
+    "predicted_peak": 0.12330679595470428,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.13 cleared hysteresis band"
+    "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 357,
     "action": "reroute_traffic",
-    "predicted_peak": 1.2418553829193115,
+    "predicted_peak": 1.0986806154251099,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.64)"
   },
   {
     "tick": 358,
     "action": "reroute_traffic",
-    "predicted_peak": 0.723157525062561,
+    "predicted_peak": 0.8272714018821716,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
   },
   {
     "tick": 359,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3909093737602234,
+    "predicted_peak": 0.44639137387275696,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.92)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
   },
   {
     "tick": 360,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2100624442100525,
+    "predicted_peak": 0.19213925302028656,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.00)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
   },
   {
     "tick": 361,
     "action": "reroute_traffic",
-    "predicted_peak": 0.146072119474411,
+    "predicted_peak": 0.13878194987773895,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 362,
     "action": "keep_default_route",
-    "predicted_peak": 0.13283373415470123,
+    "predicted_peak": 0.12516555190086365,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.13 cleared hysteresis band"
   },
   {
     "tick": 363,
     "action": "reroute_traffic",
-    "predicted_peak": 1.2161089181900024,
+    "predicted_peak": 1.0676411390304565,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.73)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.61)"
   },
   {
     "tick": 364,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7250671982765198,
+    "predicted_peak": 0.8136891722679138,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
   },
   {
     "tick": 365,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3968758285045624,
+    "predicted_peak": 0.44589632749557495,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.82)"
   },
   {
     "tick": 366,
     "action": "reroute_traffic",
-    "predicted_peak": 0.21564719080924988,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.01)"
-  },
-  {
-    "tick": 367,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.13682028651237488,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.03)"
-  },
-  {
-    "tick": 368,
-    "action": "keep_default_route",
-    "predicted_peak": 0.1304442137479782,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.13 cleared hysteresis band"
-  },
-  {
-    "tick": 369,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.3034734725952148,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
-  },
-  {
-    "tick": 370,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7291464805603027,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
-  },
-  {
-    "tick": 371,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.3873007595539093,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
-  },
-  {
-    "tick": 372,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.20855632424354553,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.01)"
-  },
-  {
-    "tick": 373,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.14718206226825714,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.06)"
-  },
-  {
-    "tick": 374,
-    "action": "keep_default_route",
-    "predicted_peak": 0.14035184681415558,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
-  },
-  {
-    "tick": 375,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.209912896156311,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
-  },
-  {
-    "tick": 376,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7322036623954773,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
-  },
-  {
-    "tick": 377,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.4017994999885559,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
-  },
-  {
-    "tick": 378,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.21855467557907104,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
-  },
-  {
-    "tick": 379,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.14191100001335144,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.06)"
-  },
-  {
-    "tick": 380,
-    "action": "keep_default_route",
-    "predicted_peak": 0.1493305116891861,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.15 cleared hysteresis band"
-  },
-  {
-    "tick": 381,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.2562472820281982,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
-  },
-  {
-    "tick": 382,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7260619401931763,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
-  },
-  {
-    "tick": 383,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.3887118399143219,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.89)"
-  },
-  {
-    "tick": 384,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.20941440761089325,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
-  },
-  {
-    "tick": 385,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.1370476335287094,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.01)"
-  },
-  {
-    "tick": 386,
-    "action": "keep_default_route",
-    "predicted_peak": 0.1304924041032791,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.13 cleared hysteresis band"
-  },
-  {
-    "tick": 387,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.226101040840149,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
-  },
-  {
-    "tick": 388,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7270345687866211,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
-  },
-  {
-    "tick": 389,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.39754945039749146,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.94)"
-  },
-  {
-    "tick": 390,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.21620649099349976,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
-  },
-  {
-    "tick": 391,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.14891521632671356,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.06)"
-  },
-  {
-    "tick": 392,
-    "action": "keep_default_route",
-    "predicted_peak": 0.14056585729122162,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
-  },
-  {
-    "tick": 393,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.2803654670715332,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
-  },
-  {
-    "tick": 394,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7292159199714661,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
-  },
-  {
-    "tick": 395,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.3886224627494812,
+    "predicted_peak": 0.19429679214954376,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
+    "tick": 367,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.12885670363903046,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
+  },
+  {
+    "tick": 368,
+    "action": "keep_default_route",
+    "predicted_peak": 0.1233038380742073,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.12 cleared hysteresis band"
+  },
+  {
+    "tick": 369,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1681270599365234,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.62)"
+  },
+  {
+    "tick": 370,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.860723614692688,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
+  },
+  {
+    "tick": 371,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.4597676992416382,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.82)"
+  },
+  {
+    "tick": 372,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.1993187814950943,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.92)"
+  },
+  {
+    "tick": 373,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.14044712483882904,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+  },
+  {
+    "tick": 374,
+    "action": "keep_default_route",
+    "predicted_peak": 0.1332835704088211,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
+    "tick": 375,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.0644934177398682,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
+  },
+  {
+    "tick": 376,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8154158592224121,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+  },
+  {
+    "tick": 377,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.44698789715766907,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.80)"
+  },
+  {
+    "tick": 378,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19588302075862885,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
+  },
+  {
+    "tick": 379,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.13487686216831207,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+  },
+  {
+    "tick": 380,
+    "action": "keep_default_route",
+    "predicted_peak": 0.14215020835399628,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.14 cleared hysteresis band"
+  },
+  {
+    "tick": 381,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1130579710006714,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+  },
+  {
+    "tick": 382,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8338916301727295,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
+  },
+  {
+    "tick": 383,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.44877180457115173,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.81)"
+  },
+  {
+    "tick": 384,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19334205985069275,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.89)"
+  },
+  {
+    "tick": 385,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.13085833191871643,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
+  },
+  {
+    "tick": 386,
+    "action": "keep_default_route",
+    "predicted_peak": 0.12376619875431061,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.12 cleared hysteresis band"
+  },
+  {
+    "tick": 387,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.081244945526123,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.62)"
+  },
+  {
+    "tick": 388,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8212757706642151,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+  },
+  {
+    "tick": 389,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.44955670833587646,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.86)"
+  },
+  {
+    "tick": 390,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19673660397529602,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
+  },
+  {
+    "tick": 391,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.14048685133457184,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.95)"
+  },
+  {
+    "tick": 392,
+    "action": "keep_default_route",
+    "predicted_peak": 0.13280963897705078,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
+    "tick": 393,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1427005529403687,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.64)"
+  },
+  {
+    "tick": 394,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8493884801864624,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
+  },
+  {
+    "tick": 395,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.4549230933189392,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
+  },
+  {
     "tick": 396,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20915263891220093,
+    "predicted_peak": 0.19693005084991455,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.06)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
   },
   {
     "tick": 397,
     "action": "reroute_traffic",
-    "predicted_peak": 0.14648038148880005,
+    "predicted_peak": 0.13895204663276672,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.07)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 398,
     "action": "keep_default_route",
-    "predicted_peak": 0.154478520154953,
+    "predicted_peak": 0.14794880151748657,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.15 cleared hysteresis band"
   },
   {
     "tick": 399,
     "action": "reroute_traffic",
-    "predicted_peak": 1.219270944595337,
+    "predicted_peak": 1.074262261390686,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.81)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
   },
   {
     "tick": 400,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7294160723686218,
+    "predicted_peak": 0.8189043998718262,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.83)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.73)"
   },
   {
     "tick": 401,
     "action": "reroute_traffic",
-    "predicted_peak": 0.39864709973335266,
+    "predicted_peak": 0.44741809368133545,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.89)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.80)"
   },
   {
     "tick": 402,
     "action": "reroute_traffic",
-    "predicted_peak": 0.21636198461055756,
+    "predicted_peak": 0.19542013108730316,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
   },
   {
     "tick": 403,
     "action": "reroute_traffic",
-    "predicted_peak": 0.12829960882663727,
+    "predicted_peak": 0.12241687625646591,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.03)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
     "tick": 404,
     "action": "keep_default_route",
-    "predicted_peak": 0.12737713754177094,
+    "predicted_peak": 0.12136650830507278,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.13 cleared hysteresis band"
+    "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 405,
     "action": "reroute_traffic",
-    "predicted_peak": 1.2743210792541504,
+    "predicted_peak": 1.134926676750183,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.61)"
   },
   {
     "tick": 406,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7268000841140747,
+    "predicted_peak": 0.8447121381759644,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 407,
     "action": "reroute_traffic",
-    "predicted_peak": 0.38791757822036743,
+    "predicted_peak": 0.4528997838497162,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
   },
   {
     "tick": 408,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2086804062128067,
+    "predicted_peak": 0.19551338255405426,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.08)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.99)"
   },
   {
     "tick": 409,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1593572497367859,
+    "predicted_peak": 0.15039707720279694,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.12)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.01)"
   },
   {
     "tick": 410,
     "action": "keep_default_route",
-    "predicted_peak": 0.15020647644996643,
+    "predicted_peak": 0.141840398311615,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.15 cleared hysteresis band"
+    "reason": "forecast peak 0.14 cleared hysteresis band"
   },
   {
     "tick": 411,
     "action": "keep_default_route",
-    "predicted_peak": 0.08156640082597733,
+    "predicted_peak": 0.07196059077978134,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 412,
     "action": "keep_default_route",
-    "predicted_peak": 0.10890154540538788,
+    "predicted_peak": 0.033722974359989166,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 413,
     "action": "keep_default_route",
-    "predicted_peak": 0.1995604932308197,
+    "predicted_peak": 0.10740256309509277,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 414,
     "action": "keep_default_route",
-    "predicted_peak": 0.24899610877037048,
+    "predicted_peak": 0.1820296049118042,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 415,
     "action": "keep_default_route",
-    "predicted_peak": 0.24845027923583984,
+    "predicted_peak": 0.21379947662353516,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 416,
     "action": "keep_default_route",
-    "predicted_peak": 0.2567785680294037,
+    "predicted_peak": 0.2520096004009247,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 417,
     "action": "keep_default_route",
-    "predicted_peak": 0.26859205961227417,
+    "predicted_peak": 0.28608793020248413,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 418,
     "action": "keep_default_route",
-    "predicted_peak": 0.25682076811790466,
+    "predicted_peak": 0.28566983342170715,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 419,
     "action": "keep_default_route",
-    "predicted_peak": 0.2486209124326706,
+    "predicted_peak": 0.27605563402175903,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 420,
     "action": "keep_default_route",
-    "predicted_peak": 0.2733643352985382,
+    "predicted_peak": 0.3127966821193695,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 421,
     "action": "keep_default_route",
-    "predicted_peak": 0.2968113422393799,
+    "predicted_peak": 0.3413611054420471,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 422,
     "action": "keep_default_route",
-    "predicted_peak": 0.2618836462497711,
+    "predicted_peak": 0.3065090775489807,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 423,
     "action": "keep_default_route",
-    "predicted_peak": 0.2533341646194458,
+    "predicted_peak": 0.2962673306465149,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 424,
     "action": "keep_default_route",
-    "predicted_peak": 0.24267682433128357,
+    "predicted_peak": 0.2821403443813324,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 425,
     "action": "keep_default_route",
-    "predicted_peak": 0.2680452764034271,
+    "predicted_peak": 0.2817911207675934,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 426,
     "action": "keep_default_route",
-    "predicted_peak": 0.2656331956386566,
+    "predicted_peak": 0.2779294550418854,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 427,
     "action": "keep_default_route",
-    "predicted_peak": 0.2765607535839081,
+    "predicted_peak": 0.28790009021759033,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 428,
     "action": "keep_default_route",
-    "predicted_peak": 0.2879220247268677,
+    "predicted_peak": 0.29760342836380005,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 429,
     "action": "keep_default_route",
-    "predicted_peak": 0.2806033790111542,
+    "predicted_peak": 0.28789371252059937,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 430,
     "action": "keep_default_route",
-    "predicted_peak": 0.2702372372150421,
+    "predicted_peak": 0.27644336223602295,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 431,
     "action": "keep_default_route",
-    "predicted_peak": 0.24666926264762878,
+    "predicted_peak": 0.2528538703918457,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 432,
     "action": "keep_default_route",
-    "predicted_peak": 0.2493777722120285,
+    "predicted_peak": 0.2573062777519226,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 433,
     "action": "keep_default_route",
-    "predicted_peak": 0.26681992411613464,
+    "predicted_peak": 0.2757173180580139,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 434,
     "action": "keep_default_route",
-    "predicted_peak": 0.29486098885536194,
+    "predicted_peak": 0.30492550134658813,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 435,
     "action": "keep_default_route",
-    "predicted_peak": 0.3229830861091614,
+    "predicted_peak": 0.334153950214386,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 436,
     "action": "keep_default_route",
-    "predicted_peak": 0.33030834794044495,
+    "predicted_peak": 0.3411236107349396,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 437,
     "action": "keep_default_route",
-    "predicted_peak": 0.32127514481544495,
+    "predicted_peak": 0.33127278089523315,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 438,
     "action": "keep_default_route",
-    "predicted_peak": 0.3456171452999115,
+    "predicted_peak": 0.3603944182395935,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 439,
     "action": "keep_default_route",
-    "predicted_peak": 0.3329874873161316,
+    "predicted_peak": 0.3444533050060272,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 440,
     "action": "keep_default_route",
-    "predicted_peak": 0.30432382225990295,
+    "predicted_peak": 0.31516188383102417,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 441,
     "action": "keep_default_route",
-    "predicted_peak": 0.2891889214515686,
+    "predicted_peak": 0.3005775511264801,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 442,
     "action": "keep_default_route",
-    "predicted_peak": 0.29269838333129883,
+    "predicted_peak": 0.304014652967453,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 443,
     "action": "keep_default_route",
-    "predicted_peak": 0.31887102127075195,
+    "predicted_peak": 0.33117684721946716,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 444,
     "action": "keep_default_route",
-    "predicted_peak": 0.3223864734172821,
+    "predicted_peak": 0.3318290114402771,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 445,
     "action": "keep_default_route",
-    "predicted_peak": 0.3001020848751068,
+    "predicted_peak": 0.30727720260620117,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 446,
     "action": "keep_default_route",
-    "predicted_peak": 0.30524930357933044,
+    "predicted_peak": 0.31388455629348755,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 447,
     "action": "keep_default_route",
-    "predicted_peak": 0.3029124140739441,
+    "predicted_peak": 0.3116060793399811,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 448,
     "action": "keep_default_route",
-    "predicted_peak": 0.2902115285396576,
+    "predicted_peak": 0.29827356338500977,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 449,
     "action": "keep_default_route",
-    "predicted_peak": 0.2786235809326172,
+    "predicted_peak": 0.28636470437049866,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 450,
     "action": "keep_default_route",
-    "predicted_peak": 0.28384456038475037,
+    "predicted_peak": 0.292267382144928,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 451,
     "action": "keep_default_route",
-    "predicted_peak": 0.26891931891441345,
+    "predicted_peak": 0.2756804823875427,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 452,
     "action": "keep_default_route",
-    "predicted_peak": 0.2930438220500946,
+    "predicted_peak": 0.301724374294281,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 453,
     "action": "keep_default_route",
-    "predicted_peak": 0.30420219898223877,
+    "predicted_peak": 0.31222671270370483,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 454,
     "action": "keep_default_route",
-    "predicted_peak": 0.310558557510376,
+    "predicted_peak": 0.31850406527519226,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 455,
     "action": "keep_default_route",
-    "predicted_peak": 0.32755041122436523,
+    "predicted_peak": 0.33775249123573303,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 456,
     "action": "keep_default_route",
-    "predicted_peak": 0.3191646337509155,
+    "predicted_peak": 0.3280293047428131,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 457,
     "action": "keep_default_route",
-    "predicted_peak": 0.3150211572647095,
+    "predicted_peak": 0.324591726064682,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 458,
     "action": "keep_default_route",
-    "predicted_peak": 0.31069621443748474,
+    "predicted_peak": 0.3213011622428894,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 459,
     "action": "keep_default_route",
-    "predicted_peak": 0.3169252276420593,
+    "predicted_peak": 0.3278889060020447,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 460,
     "action": "keep_default_route",
-    "predicted_peak": 0.3550809323787689,
+    "predicted_peak": 0.3695216178894043,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 461,
     "action": "keep_default_route",
-    "predicted_peak": 0.3442225754261017,
+    "predicted_peak": 0.3532324433326721,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 462,
     "action": "keep_default_route",
-    "predicted_peak": 0.3330419957637787,
+    "predicted_peak": 0.3417609632015228,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 463,
     "action": "keep_default_route",
-    "predicted_peak": 0.3555936813354492,
+    "predicted_peak": 0.3678569495677948,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 464,
     "action": "keep_default_route",
-    "predicted_peak": 0.3425995111465454,
+    "predicted_peak": 0.35167983174324036,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 465,
     "action": "keep_default_route",
-    "predicted_peak": 0.3570038676261902,
+    "predicted_peak": 0.36687594652175903,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 466,
     "action": "keep_default_route",
-    "predicted_peak": 0.35473498702049255,
+    "predicted_peak": 0.36382147669792175,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 467,
     "action": "keep_default_route",
-    "predicted_peak": 0.3620432913303375,
+    "predicted_peak": 0.3711652159690857,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 468,
     "action": "keep_default_route",
-    "predicted_peak": 0.3642900288105011,
+    "predicted_peak": 0.37263423204421997,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 469,
     "action": "keep_default_route",
-    "predicted_peak": 0.3607892394065857,
+    "predicted_peak": 0.3683241903781891,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 470,
     "action": "keep_default_route",
-    "predicted_peak": 0.33837950229644775,
+    "predicted_peak": 0.3447727859020233,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 471,
     "action": "keep_default_route",
-    "predicted_peak": 0.3257041275501251,
+    "predicted_peak": 0.33207017183303833,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 472,
     "action": "keep_default_route",
-    "predicted_peak": 0.3302197754383087,
+    "predicted_peak": 0.33803215622901917,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 473,
     "action": "keep_default_route",
-    "predicted_peak": 0.32590121030807495,
+    "predicted_peak": 0.3327493369579315,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 474,
     "action": "keep_default_route",
-    "predicted_peak": 0.3090534806251526,
+    "predicted_peak": 0.3146393895149231,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 475,
     "action": "keep_default_route",
-    "predicted_peak": 0.2920503616333008,
+    "predicted_peak": 0.29762211441993713,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 476,
     "action": "keep_default_route",
-    "predicted_peak": 0.3123321533203125,
+    "predicted_peak": 0.3197289705276489,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 477,
     "action": "keep_default_route",
-    "predicted_peak": 0.34549039602279663,
+    "predicted_peak": 0.3533852696418762,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 478,
     "action": "keep_default_route",
-    "predicted_peak": 0.34169450402259827,
+    "predicted_peak": 0.3471387028694153,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 479,
     "action": "keep_default_route",
-    "predicted_peak": 0.3344050645828247,
+    "predicted_peak": 0.33985307812690735,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 480,
     "action": "keep_default_route",
-    "predicted_peak": 0.34478870034217834,
+    "predicted_peak": 0.3526735305786133,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 481,
     "action": "keep_default_route",
-    "predicted_peak": 0.34715861082077026,
+    "predicted_peak": 0.354862242937088,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 482,
     "action": "keep_default_route",
-    "predicted_peak": 0.3424879014492035,
+    "predicted_peak": 0.34996575117111206,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 483,
     "action": "keep_default_route",
-    "predicted_peak": 0.3438997268676758,
+    "predicted_peak": 0.3524079918861389,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 484,
     "action": "keep_default_route",
-    "predicted_peak": 0.3238007128238678,
+    "predicted_peak": 0.33083805441856384,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 485,
     "action": "keep_default_route",
-    "predicted_peak": 0.3057291507720947,
+    "predicted_peak": 0.3131670653820038,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 486,
     "action": "keep_default_route",
-    "predicted_peak": 0.31326764822006226,
+    "predicted_peak": 0.3221142292022705,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 487,
     "action": "keep_default_route",
-    "predicted_peak": 0.32077667117118835,
+    "predicted_peak": 0.3295527696609497,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 488,
     "action": "keep_default_route",
-    "predicted_peak": 0.3305625915527344,
+    "predicted_peak": 0.3389069437980652,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 489,
     "action": "keep_default_route",
-    "predicted_peak": 0.33314308524131775,
+    "predicted_peak": 0.34076082706451416,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 490,
     "action": "keep_default_route",
-    "predicted_peak": 0.31287485361099243,
+    "predicted_peak": 0.319009393453598,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 491,
     "action": "keep_default_route",
-    "predicted_peak": 0.31224364042282104,
+    "predicted_peak": 0.31971701979637146,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 492,
     "action": "keep_default_route",
-    "predicted_peak": 0.33171260356903076,
+    "predicted_peak": 0.34090760350227356,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 493,
     "action": "keep_default_route",
-    "predicted_peak": 0.3439604341983795,
+    "predicted_peak": 0.3524668216705322,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 494,
     "action": "keep_default_route",
-    "predicted_peak": 0.35385194420814514,
+    "predicted_peak": 0.3616042733192444,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 495,
     "action": "keep_default_route",
-    "predicted_peak": 0.33591029047966003,
+    "predicted_peak": 0.3419911563396454,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 496,
     "action": "keep_default_route",
-    "predicted_peak": 0.32133933901786804,
+    "predicted_peak": 0.328321248292923,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 497,
     "action": "keep_default_route",
-    "predicted_peak": 0.30865228176116943,
+    "predicted_peak": 0.3165957033634186,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 498,
     "action": "keep_default_route",
-    "predicted_peak": 0.2998206615447998,
+    "predicted_peak": 0.30779045820236206,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 499,
     "action": "keep_default_route",
-    "predicted_peak": 0.29246339201927185,
+    "predicted_peak": 0.30022794008255005,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 500,
     "action": "keep_default_route",
-    "predicted_peak": 0.3037768006324768,
+    "predicted_peak": 0.3124473989009857,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 501,
     "action": "keep_default_route",
-    "predicted_peak": 0.32137030363082886,
+    "predicted_peak": 0.3299329876899719,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 502,
     "action": "keep_default_route",
-    "predicted_peak": 0.36364519596099854,
+    "predicted_peak": 0.3753322660923004,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 503,
     "action": "keep_default_route",
-    "predicted_peak": 0.46863698959350586,
+    "predicted_peak": 0.4792321026325226,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 504,
     "action": "keep_default_route",
-    "predicted_peak": 0.6160851120948792,
+    "predicted_peak": 0.6179219484329224,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 505,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7735581398010254,
+    "predicted_peak": 0.764780580997467,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.16)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.17)"
   },
   {
     "tick": 506,
     "action": "reroute_traffic",
-    "predicted_peak": 0.5848239660263062,
+    "predicted_peak": 0.5816790461540222,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.35)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.36)"
   },
   {
     "tick": 507,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4159241318702698,
+    "predicted_peak": 0.411881685256958,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 508,
     "action": "reroute_traffic",
-    "predicted_peak": 0.28832298517227173,
+    "predicted_peak": 0.2870360016822815,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.85)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.84)"
   },
   {
     "tick": 509,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20214423537254333,
+    "predicted_peak": 0.20525872707366943,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.95)"
   },
   {
     "tick": 510,
     "action": "keep_default_route",
-    "predicted_peak": 0.16934336721897125,
+    "predicted_peak": 0.16337518393993378,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.17 cleared hysteresis band"
+    "reason": "forecast peak 0.16 cleared hysteresis band"
   },
   {
     "tick": 511,
     "action": "reroute_traffic",
-    "predicted_peak": 1.4677571058273315,
+    "predicted_peak": 1.5324770212173462,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
   },
   {
     "tick": 512,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8448895215988159,
+    "predicted_peak": 1.0378189086914062,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
   },
   {
     "tick": 513,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4589437246322632,
+    "predicted_peak": 0.5442444086074829,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.80)"
   },
   {
     "tick": 514,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2686765491962433,
+    "predicted_peak": 0.2698354423046112,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.86)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
   },
   {
     "tick": 515,
     "action": "reroute_traffic",
-    "predicted_peak": 0.15668420493602753,
+    "predicted_peak": 0.12332400679588318,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 516,
     "action": "keep_default_route",
-    "predicted_peak": 0.12349938601255417,
+    "predicted_peak": 0.12244179099798203,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 517,
     "action": "reroute_traffic",
-    "predicted_peak": 1.3794474601745605,
+    "predicted_peak": 1.2270467281341553,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.70)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
   },
   {
     "tick": 518,
     "action": "reroute_traffic",
-    "predicted_peak": 0.8075559735298157,
+    "predicted_peak": 0.8890992999076843,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.71)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
   },
   {
     "tick": 519,
     "action": "reroute_traffic",
-    "predicted_peak": 0.4342905282974243,
+    "predicted_peak": 0.4647888243198395,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.82)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
   },
   {
     "tick": 520,
     "action": "reroute_traffic",
-    "predicted_peak": 0.24360781908035278,
+    "predicted_peak": 0.20860013365745544,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
   },
   {
     "tick": 521,
     "action": "reroute_traffic",
-    "predicted_peak": 0.14554838836193085,
+    "predicted_peak": 0.14042185246944427,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
   },
   {
     "tick": 522,
     "action": "keep_default_route",
-    "predicted_peak": 0.1529340147972107,
+    "predicted_peak": 0.14662209153175354,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.15 cleared hysteresis band"
   },
   {
     "tick": 523,
     "action": "reroute_traffic",
-    "predicted_peak": 1.3039599657058716,
+    "predicted_peak": 1.1441807746887207,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
     "tick": 524,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7557099461555481,
+    "predicted_peak": 0.8489794731140137,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
   },
   {
     "tick": 525,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3888111114501953,
+    "predicted_peak": 0.45061707496643066,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.83)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
   },
   {
     "tick": 526,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20750999450683594,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.95)"
-  },
-  {
-    "tick": 527,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.1366407871246338,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.06)"
-  },
-  {
-    "tick": 528,
-    "action": "keep_default_route",
-    "predicted_peak": 0.14025217294692993,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
-  },
-  {
-    "tick": 529,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.2788801193237305,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
-  },
-  {
-    "tick": 530,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7236090898513794,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.78)"
-  },
-  {
-    "tick": 531,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.3879105746746063,
+    "predicted_peak": 0.19342400133609772,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
   },
   {
-    "tick": 532,
+    "tick": 527,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20767921209335327,
+    "predicted_peak": 0.13114506006240845,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
   },
   {
-    "tick": 533,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.14160560071468353,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.02)"
-  },
-  {
-    "tick": 534,
+    "tick": 528,
     "action": "keep_default_route",
-    "predicted_peak": 0.14183928072452545,
+    "predicted_peak": 0.13340604305267334,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
+    "reason": "forecast peak 0.13 cleared hysteresis band"
   },
   {
-    "tick": 535,
+    "tick": 529,
     "action": "reroute_traffic",
-    "predicted_peak": 1.296676516532898,
+    "predicted_peak": 1.1433510780334473,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.66)"
   },
   {
-    "tick": 536,
+    "tick": 530,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7270357608795166,
+    "predicted_peak": 0.8484646081924438,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.69)"
+  },
+  {
+    "tick": 531,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.45382195711135864,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
   },
   {
+    "tick": 532,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19558185338974,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
+  },
+  {
+    "tick": 533,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.13547545671463013,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.93)"
+  },
+  {
+    "tick": 534,
+    "action": "keep_default_route",
+    "predicted_peak": 0.13470305502414703,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
+    "tick": 535,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1652882099151611,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
+  },
+  {
+    "tick": 536,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8598743677139282,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.71)"
+  },
+  {
     "tick": 537,
     "action": "reroute_traffic",
-    "predicted_peak": 0.38804569840431213,
+    "predicted_peak": 0.45818963646888733,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.82)"
   },
   {
     "tick": 538,
     "action": "reroute_traffic",
-    "predicted_peak": 0.2077888548374176,
+    "predicted_peak": 0.19811846315860748,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.90)"
   },
   {
     "tick": 539,
     "action": "reroute_traffic",
-    "predicted_peak": 0.11795134842395782,
+    "predicted_peak": 0.11161264777183533,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
   },
   {
     "tick": 540,
     "action": "keep_default_route",
-    "predicted_peak": 0.12334335595369339,
+    "predicted_peak": 0.11865855753421783,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.12 cleared hysteresis band"
   },
   {
     "tick": 541,
     "action": "reroute_traffic",
-    "predicted_peak": 1.259116291999817,
+    "predicted_peak": 1.123060703277588,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.72)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.61)"
   },
   {
     "tick": 542,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7271045446395874,
+    "predicted_peak": 0.8408899903297424,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.75)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
   },
   {
     "tick": 543,
     "action": "reroute_traffic",
-    "predicted_peak": 0.39161667227745056,
+    "predicted_peak": 0.4515012204647064,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.87)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.80)"
   },
   {
     "tick": 544,
     "action": "reroute_traffic",
-    "predicted_peak": 0.21013134717941284,
+    "predicted_peak": 0.19524183869361877,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.97)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.89)"
   },
   {
     "tick": 545,
     "action": "reroute_traffic",
-    "predicted_peak": 0.14336127042770386,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
-  },
-  {
-    "tick": 546,
-    "action": "keep_default_route",
-    "predicted_peak": 0.1416652649641037,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
-  },
-  {
-    "tick": 547,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.3058156967163086,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
-  },
-  {
-    "tick": 548,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7267546653747559,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
-  },
-  {
-    "tick": 549,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.3856910467147827,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.86)"
-  },
-  {
-    "tick": 550,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.20608951151371002,
+    "predicted_peak": 0.13617673516273499,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
+    "tick": 546,
+    "action": "keep_default_route",
+    "predicted_peak": 0.134287029504776,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
+    "tick": 547,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1735846996307373,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
+  },
+  {
+    "tick": 548,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.8628214001655579,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.69)"
+  },
+  {
+    "tick": 549,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.4578588604927063,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
+  },
+  {
+    "tick": 550,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19710633158683777,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
+  },
+  {
     "tick": 551,
     "action": "reroute_traffic",
-    "predicted_peak": 0.1361740678548813,
+    "predicted_peak": 0.13030411303043365,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 1.05)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.96)"
   },
   {
     "tick": 552,
     "action": "keep_default_route",
-    "predicted_peak": 0.13297440111637115,
+    "predicted_peak": 0.12638840079307556,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "forecast peak 0.13 cleared hysteresis band"
   },
   {
     "tick": 553,
     "action": "reroute_traffic",
-    "predicted_peak": 1.3108537197113037,
+    "predicted_peak": 1.1835649013519287,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.77)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.65)"
   },
   {
     "tick": 554,
     "action": "reroute_traffic",
-    "predicted_peak": 0.7285053730010986,
+    "predicted_peak": 0.8687626719474792,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.76)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.67)"
   },
   {
     "tick": 555,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3878529667854309,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.86)"
-  },
-  {
-    "tick": 556,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.20735935866832733,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
-  },
-  {
-    "tick": 557,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.1320803016424179,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.98)"
-  },
-  {
-    "tick": 558,
-    "action": "keep_default_route",
-    "predicted_peak": 0.1361163705587387,
-    "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.14 cleared hysteresis band"
-  },
-  {
-    "tick": 559,
-    "action": "reroute_traffic",
-    "predicted_peak": 1.3063632249832153,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.74)"
-  },
-  {
-    "tick": 560,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.7283060550689697,
+    "predicted_peak": 0.4610728323459625,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.79)"
   },
   {
+    "tick": 556,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.19944269955158234,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.91)"
+  },
+  {
+    "tick": 557,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.12536057829856873,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.88)"
+  },
+  {
+    "tick": 558,
+    "action": "keep_default_route",
+    "predicted_peak": 0.1299426406621933,
+    "chosen_path": "h1->s1->s2->h2",
+    "reason": "forecast peak 0.13 cleared hysteresis band"
+  },
+  {
+    "tick": 559,
+    "action": "reroute_traffic",
+    "predicted_peak": 1.1787735223770142,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.63)"
+  },
+  {
+    "tick": 560,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.866226315498352,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.71)"
+  },
+  {
     "tick": 561,
     "action": "reroute_traffic",
-    "predicted_peak": 0.3865891695022583,
+    "predicted_peak": 0.45799538493156433,
     "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.68)"
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.59)"
   },
   {
     "tick": 562,
     "action": "reroute_traffic",
-    "predicted_peak": 0.20589470863342285,
-    "chosen_path": "h1->s1->s3->s2->h2",
-    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.57)"
-  },
-  {
-    "tick": 563,
-    "action": "reroute_traffic",
-    "predicted_peak": 0.09878499805927277,
+    "predicted_peak": 0.1969735473394394,
     "chosen_path": "h1->s1->s3->s2->h2",
     "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.48)"
   },
   {
+    "tick": 563,
+    "action": "reroute_traffic",
+    "predicted_peak": 0.04477906599640846,
+    "chosen_path": "h1->s1->s3->s2->h2",
+    "reason": "reroute -> ['h1', 's1', 's3', 's2', 'h2'] (predicted peak 0.41)"
+  },
+  {
     "tick": 564,
     "action": "keep_default_route",
-    "predicted_peak": 0.03874446824193001,
+    "predicted_peak": 0.0,
     "chosen_path": "h1->s1->s2->h2",
-    "reason": "forecast peak 0.04 cleared hysteresis band"
+    "reason": "forecast peak 0.00 cleared hysteresis band"
   },
   {
     "tick": 565,
     "action": "keep_default_route",
-    "predicted_peak": 0.028410980477929115,
+    "predicted_peak": 0.0,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 566,
     "action": "keep_default_route",
-    "predicted_peak": 0.06598123908042908,
+    "predicted_peak": 0.007626409642398357,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 567,
     "action": "keep_default_route",
-    "predicted_peak": 0.15037497878074646,
+    "predicted_peak": 0.060424551367759705,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 568,
     "action": "keep_default_route",
-    "predicted_peak": 0.2047930508852005,
+    "predicted_peak": 0.13752922415733337,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 569,
     "action": "keep_default_route",
-    "predicted_peak": 0.2465168684720993,
+    "predicted_peak": 0.2091645747423172,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 570,
     "action": "keep_default_route",
-    "predicted_peak": 0.2503206133842468,
+    "predicted_peak": 0.24242068827152252,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 571,
     "action": "keep_default_route",
-    "predicted_peak": 0.24051004648208618,
+    "predicted_peak": 0.2554396092891693,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 572,
     "action": "keep_default_route",
-    "predicted_peak": 0.2048620879650116,
+    "predicted_peak": 0.23188920319080353,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 573,
     "action": "keep_default_route",
-    "predicted_peak": 0.20310302078723907,
+    "predicted_peak": 0.2277262955904007,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 574,
     "action": "keep_default_route",
-    "predicted_peak": 0.1906650811433792,
+    "predicted_peak": 0.22585585713386536,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 575,
     "action": "keep_default_route",
-    "predicted_peak": 0.2039691060781479,
+    "predicted_peak": 0.24496544897556305,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 576,
     "action": "keep_default_route",
-    "predicted_peak": 0.21887943148612976,
+    "predicted_peak": 0.26151058077812195,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 577,
     "action": "keep_default_route",
-    "predicted_peak": 0.22843597829341888,
+    "predicted_peak": 0.2714574933052063,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 578,
     "action": "keep_default_route",
-    "predicted_peak": 0.24318242073059082,
+    "predicted_peak": 0.28694406151771545,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 579,
     "action": "keep_default_route",
-    "predicted_peak": 0.27624478936195374,
+    "predicted_peak": 0.2940560579299927,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 580,
     "action": "keep_default_route",
-    "predicted_peak": 0.2660357356071472,
+    "predicted_peak": 0.28037211298942566,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 581,
     "action": "keep_default_route",
-    "predicted_peak": 0.23645126819610596,
+    "predicted_peak": 0.24765904247760773,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 582,
     "action": "keep_default_route",
-    "predicted_peak": 0.2384251207113266,
+    "predicted_peak": 0.2502017915248871,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 583,
     "action": "keep_default_route",
-    "predicted_peak": 0.25408440828323364,
+    "predicted_peak": 0.2656896710395813,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 584,
     "action": "keep_default_route",
-    "predicted_peak": 0.27165287733078003,
+    "predicted_peak": 0.28195199370384216,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 585,
     "action": "keep_default_route",
-    "predicted_peak": 0.27803733944892883,
+    "predicted_peak": 0.28686684370040894,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 586,
     "action": "keep_default_route",
-    "predicted_peak": 0.30058753490448,
+    "predicted_peak": 0.3122929632663727,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 587,
     "action": "keep_default_route",
-    "predicted_peak": 0.2993980646133423,
+    "predicted_peak": 0.30932679772377014,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 588,
     "action": "keep_default_route",
-    "predicted_peak": 0.32535335421562195,
+    "predicted_peak": 0.3397025167942047,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 589,
     "action": "keep_default_route",
-    "predicted_peak": 0.3259827494621277,
+    "predicted_peak": 0.3390779197216034,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 590,
     "action": "keep_default_route",
-    "predicted_peak": 0.31052571535110474,
+    "predicted_peak": 0.32178160548210144,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 591,
     "action": "keep_default_route",
-    "predicted_peak": 0.2986370027065277,
+    "predicted_peak": 0.3102034628391266,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 592,
     "action": "keep_default_route",
-    "predicted_peak": 0.2961058020591736,
+    "predicted_peak": 0.3076265752315521,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 593,
     "action": "keep_default_route",
-    "predicted_peak": 0.30419057607650757,
+    "predicted_peak": 0.31579646468162537,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 594,
     "action": "keep_default_route",
-    "predicted_peak": 0.3370931148529053,
+    "predicted_peak": 0.35105639696121216,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 595,
     "action": "keep_default_route",
-    "predicted_peak": 0.34629982709884644,
+    "predicted_peak": 0.3580733835697174,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 596,
     "action": "keep_default_route",
-    "predicted_peak": 0.3530047833919525,
+    "predicted_peak": 0.3639528751373291,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 597,
     "action": "keep_default_route",
-    "predicted_peak": 0.36004623770713806,
+    "predicted_peak": 0.3710576593875885,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 598,
     "action": "keep_default_route",
-    "predicted_peak": 0.35869303345680237,
+    "predicted_peak": 0.3688790202140808,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   },
   {
     "tick": 599,
     "action": "keep_default_route",
-    "predicted_peak": 0.3776646554470062,
+    "predicted_peak": 0.39003995060920715,
     "chosen_path": "h1->s1->s2->h2",
     "reason": "below threshold"
   }
