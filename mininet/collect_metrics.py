@@ -261,6 +261,7 @@ def collect(
         "latency_ms", "packet_loss_pct", "throughput_mbps",
         "path_index", "is_on_active_path",
         "effective_latency_ms", "effective_throughput_mbps", "effective_packet_loss_pct",
+        "ts_epoch",  # [informe] para alinear con el log del controlador y con iperf3
     ]
 
     with out_csv.open("w", newline="") as fh:
@@ -362,6 +363,7 @@ def collect(
                 on_active = (link["src"], link["dst"]) in active_pair_set
                 row = {
                     "tick": tick,
+                    "ts_epoch": f"{tick_t_lo:.3f}",
                     "scenario": scenario,
                     "policy": policy,
                     "link": f"{link['src']}-{link['dst']}",
