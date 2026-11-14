@@ -79,6 +79,9 @@ except ImportError:  # pragma: no cover - only triggered without os-ken installe
 MODE = os.environ.get("MODE", "static").lower()
 STATS_INTERVAL = float(os.environ.get("STATS_INTERVAL", "1.0"))
 WINDOW_SIZE = 20  # must match CONFIG.ml.window_size
+# [informe] FORECASTER=lstm (por defecto) o persistence (referencia trivial:
+# repite la ultima utilizacion medida en los 5 pasos del horizonte).
+FORECASTER = os.environ.get("FORECASTER", "lstm").lower()
 
 MININET_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = MININET_DIR.parent
@@ -391,7 +394,14 @@ class PredictiveRouter(app_manager.OSKenApp):  # type: ignore[misc, valid-type]
 
         df = pd.DataFrame(list(hist))
         try:
-            forecast = self._forecaster.predict_link(df)
+            if FORECASTER == "persistence":
+                import numpy as np
+                forecast = np.full(
+                    self._forecaster.horizon,
+                    float(df["utilization"].iloc[-1]), dtype=np.float32,
+                )
+            else:
+                forecast = self._forecaster.predict_link(df)
         except Exception as exc:  # pragma: no cover - model corner cases
             self.logger.warning("predict_link failed: %s", exc)
             return None
@@ -400,9 +410,35 @@ class PredictiveRouter(app_manager.OSKenApp):  # type: ignore[misc, valid-type]
 
         # Step 3: rule-based decision engine -> KEEP or REROUTE.
         decision = self._engine.step([forecast])
+        self._log_decision(hist[-1]["utilization"], forecast, decision)
         if decision.action == self._Action.REROUTE:
             return list(ALTERNATE_PATH)
         return list(PRIMARY_PATH)
+
+    def _log_decision(self, util_now, forecast, decision) -> None:
+        """[informe] Una fila por tick en runtime/decisions_<MODE>_<FORECASTER>.csv
+        y una linea de log cuando la prediccion pasa el umbral o cambia la accion."""
+        import csv
+        peak = float(decision.predicted_peak_utilization)
+        action = decision.action.value
+        path_csv = RUNTIME_DIR / f"decisions_{MODE}_{FORECASTER}.csv"
+        new = not path_csv.exists()
+        with path_csv.open("a", newline="") as fh:
+            w = csv.writer(fh)
+            if new:
+                w.writerow(["ts_epoch", "tick", "util_s1s2", "forecast",
+                            "pred_peak", "action", "reason"])
+            w.writerow([f"{time.time():.3f}", self.tick, f"{util_now:.3f}",
+                        " ".join(f"{v:.3f}" for v in forecast),
+                        f"{peak:.3f}", action, decision.reason])
+        prev = getattr(self, "_last_action", None)
+        if peak >= 0.75 or action != prev:
+            self.logger.info(
+                "[tick %d] util s1-s2=%.2f | prediccion t+1..t+5=[%s] pico=%.2f -> %s (%s)",
+                self.tick, util_now, " ".join(f"{v:.2f}" for v in forecast),
+                peak, action, decision.reason,
+            )
+        self._last_action = action
 
     # ---- flow installation -------------------------------------------------
 
