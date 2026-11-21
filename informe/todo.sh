@@ -1,14 +1,19 @@
 #!/usr/bin/env bash
 # Hace todo lo de GUIA_EJECUCION.md sin intervencion. Uso, desde cualquier carpeta de WSL:
 #
-#   sudo bash "/mnt/c/Users/forza/Desktop/UNIVERSIDAD/26-27/Redes/Trabajo/informe/todo.sh"
+#   sudo bash /ruta/a/SDNStudy/informe/todo.sh
+#
+# Toma los scripts de la carpeta informe/ donde esta este archivo y deja la
+# salida en <carpeta de arriba>/salida_wsl. Para dejarla en otro sitio:
+#   sudo WIN=/mnt/c/Users/<usuario>/Desktop/Trabajo bash .../informe/todo.sh
 #
 # Se puede relanzar: salta lo que ya este hecho (repo, entornos, modelo y cada
 # ejecucion que ya tenga resultados/<nombre>/metrics.csv).
 # Opcional: SOLO="congestion_predictive" sudo -E bash .../todo.sh   (una sola ejecucion)
 set -uo pipefail
 
-WIN="/mnt/c/Users/forza/Desktop/UNIVERSIDAD/26-27/Redes/Trabajo"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+WIN="${WIN:-$(dirname "$SCRIPT_DIR")}"
 REPO_URL="https://github.com/manjunathcshekar/predictive-sdn-routing.git"
 
 [ "$EUID" -eq 0 ] || { echo "Lanzalo con sudo:  sudo bash \"$WIN/informe/todo.sh\""; exit 1; }
@@ -55,7 +60,7 @@ else
 fi
 cd "$REPO" || fallo "no puedo entrar en $REPO"
 sudo -u "$U" mkdir -p informe resultados
-sudo -u "$U" cp -f "$WIN"/informe/*.py "$WIN"/informe/*.sh "$WIN"/informe/*.md informe/ || fallo "copiar informe/"
+sudo -u "$U" cp -f "$SCRIPT_DIR"/*.py "$SCRIPT_DIR"/*.sh "$SCRIPT_DIR"/*.md informe/ || fallo "copiar informe/"
 as_user "python3 informe/aplicar_cambios.py" || fallo "aplicar_cambios.py"
 
 # ------------------------------------------------------------------ 3. entornos

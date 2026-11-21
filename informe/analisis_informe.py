@@ -61,15 +61,55 @@ def per_tick(metrics: pd.DataFrame) -> pd.DataFrame:
     return g
 
 
+def inicio_ejecucion(run_dir: Path) -> float | None:
+    """Hora (epoch) de la primera muestra del colector, menos un margen de 120 s."""
+    csv = run_dir / "metrics.csv"
+    if not csv.exists():
+        return None
+    try:
+        ts = pd.read_csv(csv, usecols=["ts_epoch"])["ts_epoch"].dropna()
+    except (ValueError, KeyError):
+        return None
+    return float(ts.min()) - 120.0 if len(ts) else None
+
+
+def ultimo_json(f: Path, desde: float | None = None) -> dict | None:
+    """Ultimo objeto JSON del archivo que empezo en o despues de `desde` (epoch).
+
+    iperf3 --json --logfile anade al archivo en lugar de sobrescribirlo, asi que
+    si la carpeta ya tenia JSON de otras ejecuciones (el repositorio original
+    versiona los del autor en mininet/runtime) quedan varios objetos seguidos.
+    Nos quedamos con el ultimo que pertenezca a esta ejecucion.
+    """
+    try:
+        texto = f.read_text()
+    except OSError:
+        return None
+    dec = json.JSONDecoder()
+    i, ultimo = 0, None
+    while True:
+        while i < len(texto) and texto[i].isspace():
+            i += 1
+        if i >= len(texto):
+            return ultimo
+        try:
+            d, i = dec.raw_decode(texto, i)
+        except json.JSONDecodeError:
+            return ultimo
+        ts = d.get("start", {}).get("timestamp", {}).get("timesecs")
+        if desde is None or (ts is not None and ts >= desde):
+            ultimo = d
+
+
 def iperf_loss(run_dir: Path) -> tuple[float | None, float | None, list[float]]:
     """Perdidas UDP segun iperf3 (todas las sesiones del cliente) e inicio de rafagas."""
     lost = pkts = 0
     burst_starts: list[float] = []
     found = False
+    desde = inicio_ejecucion(run_dir)
     for f in sorted(run_dir.glob("iperf_client_*.json")):
-        try:
-            d = json.loads(f.read_text())
-        except (json.JSONDecodeError, OSError):
+        d = ultimo_json(f, desde)
+        if d is None:
             continue
         s = d.get("end", {}).get("sum", {})
         if "lost_packets" in s and "packets" in s:
