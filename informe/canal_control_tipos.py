@@ -1,3 +1,5 @@
+# Uso: python3 canal_control_tipos.py resultados/congestion_predictive/ctrl.pcap
+# Cuenta los mensajes OpenFlow de la captura del canal de control por tipo.
 import struct, sys, collections
 data=open(sys.argv[1],'rb').read()
 off=24; streams=collections.defaultdict(dict); t0=None
@@ -31,5 +33,9 @@ for k,segs in streams.items():
         i+=ln
 tmax=max(per_sec); print('duracion s',tmax)
 for n,c in cnt.most_common(): print(f'{n:14s} {c:9d} msgs {byts[n]/1e6:9.2f} MB  {c/tmax:8.1f}/s {byts[n]*8/tmax/1e3:9.1f} kbit/s')
-import json; json.dump({str(k):dict(v) for k,v in per_sec_b.items()},open('/home/claude/of_per_sec_bytes.json','w'))
-json.dump({str(k):dict(v) for k,v in per_sec.items()},open('/home/claude/of_per_sec.json','w'))
+# Series por segundo junto a la captura: <captura>_por_segundo.json y _bytes_por_segundo.json
+import json, os
+base=os.path.splitext(sys.argv[1])[0]
+json.dump({str(k):dict(v) for k,v in per_sec.items()},open(base+'_por_segundo.json','w'))
+json.dump({str(k):dict(v) for k,v in per_sec_b.items()},open(base+'_bytes_por_segundo.json','w'))
+print('series por segundo en', base+'_por_segundo.json y', base+'_bytes_por_segundo.json')
